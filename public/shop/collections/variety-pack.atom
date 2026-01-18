@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/collections/variety-pack.atom"/>
+  <title>SEEQ </title>
+  <updated>2025-12-26T11:55:32-06:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/products/9033032630522</id>
+    <published>2025-12-26T11:55:32-06:00</published>
+    <updated>2025-12-26T11:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-arctic-cherry"/>
+    <title>Clear Protein Arctic Cherry</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-arctic-cherry-8473644.png?v=1766560206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arctic Cherry is like hitting the first run down a snowy peak. This nostalgic cherry flavor drinks lightly tart then pleasantly sweet for an Arctic-cool finish that keeps every sip feeling clean and refreshing</p>
+<p>With zero sugar, 0g lactose, and <strong>no artificial dyes</strong>, it’s a light, easy-drinking protein you’ll actually want to reach for every day. Fresh, invigorating, and unmistakably cherry, this is the flavor you’ll crave before or after every workout.<!-- notionvc: a9cc126d-9592-435e-996c-7e0f410fc2bf --></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9033032630522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-AC-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9018408042746</id>
+    <published>2025-12-04T17:51:20-06:00</published>
+    <updated>2025-12-04T17:51:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/ultimate-starter-kit"/>
+    <title>Ultimate Starter Kit</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/ultimate-starter-kit-6546287.png?v=1764984428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9018408042746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8950586114298</id>
+    <published>2025-10-15T15:28:29-05:00</published>
+    <updated>2025-10-15T15:28:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-variety-pack-9ct"/>
+    <title>Clear Protein 9ct. Trial Pack</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-9ct-trial-pack-5029136.png?v=1760601458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8950586114298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-9</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8245910208762</id>
+    <published>2025-05-19T21:51:46-05:00</published>
+    <updated>2025-05-19T21:51:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-variety-pack"/>
+    <title>Clear Protein Variety Pack</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-variety-pack-560076.png?v=1764794873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8245910208762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+</feed>

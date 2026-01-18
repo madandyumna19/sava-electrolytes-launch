@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/blogs/seeqret-recipes.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/seeqret-recipes"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/blogs/seeqret-recipes.atom"/>
+  <title>SEEQ  - DRINKS</title>
+  <updated>2025-08-14T20:56:51-05:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/blogs/seeqret-recipes/fruit-punch-ice-cream</id>
+    <published>2025-08-14T20:56:51-05:00</published>
+    <updated>2025-08-15T11:22:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/seeqret-recipes/fruit-punch-ice-cream"/>
+    <title>Fruit Punch Ice Cream</title>
+    <author>
+      <name>Ravyn Fox</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>It’s giving juicy, it’s giving creamy, it’s giving “I can’t believe this is protein.”</p>
+<p>Ingredients:<br>- <a href="https://seeqsupply.com/products/fruit-punch-clear-protein">1 scoop SEEQ Fruit Punch Clear Protein</a><br>- 16 oz. water<br>- 12 oz. your fav milk</p>
+<p>Instructions:<br>1. Combine SEEQ, water, and evaporated milk<br>2. Froth until silky smooth<br>3. Freeze until solid<br>4. Pop it in the Ninja Creami (or stir it up old school)<br>5. Load on your toppings + live your best juicy life!</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/Pinterest_859f11f6-b2d9-40b7-a201-fb740b914937.png?v=1755222969" alt=""></p>]]>
+    </content>
+  </entry>
+</feed>

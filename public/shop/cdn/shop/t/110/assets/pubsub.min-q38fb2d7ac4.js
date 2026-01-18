@@ -1,0 +1,1 @@
+let subscribers={};function subscribe(a,b){void 0===subscribers[a]&&(subscribers[a]=[]);subscribers[a]=[...subscribers[a],b];return function(){subscribers[a]=subscribers[a].filter(c=>c!==b)}}function publish(a,b){subscribers[a]&&subscribers[a].forEach(c=>{c(b)})};

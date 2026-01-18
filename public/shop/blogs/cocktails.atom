@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/blogs/cocktails.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/cocktails"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/blogs/cocktails.atom"/>
+  <title>SEEQ  - COCKTAILS</title>
+  <updated>2023-02-15T16:17:20-06:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/blogs/cocktails/mango-pina-colada</id>
+    <published>2023-02-15T16:17:20-06:00</published>
+    <updated>2023-05-12T15:00:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/cocktails/mango-pina-colada"/>
+    <title>Mango Piña Colada</title>
+    <author>
+      <name>Hannah Perez</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span style="font-weight: 400;">Who said you can’t reach your protein goals while sipping on a cocktail? We took the classic Pina Colada and gave it the SEEQ spin with our Mango Pineapple Protein.</span></p>
+<p><span style="font-weight: 400;">Warning: this cocktail is so tasty that you may want to drink it by the pitcher full. We recommend enjoying this cocktail with friends to share the experience with. </span></p>
+<div style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/230320-SEEQ_MangoPinaColada_copy_600x600.jpg?v=1683921602" alt="" style="float: none;"></div>
+<p><span style="font-weight: 400;">Cook Time: 10-15 minutes</span></p>
+<p><span style="font-weight: 400;">Servings: 1</span></p>
+<p><span style="font-weight: 400;">INGREDIENTS:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3 oz Coconut cream</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 oz White rum</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">4 oz Pineapple juice</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1/4 cup of fresh mango</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">1/2 scoop SEEQ Mango Pineapple flavored protein</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">2 cups of ice</span></li>
+</ul>
+<p><span style="font-weight: 400;">INSTRUCTIONS:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pour 4 oz pineapple juice into a glass</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blend in 1/2 scoop Mango Pineapple Flavored SEEQ protein</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Allow foam to settle then mix in 3 oz of Coconut cream</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add 2oz of white rum</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pour your mix into your blender and add 1/4 cup of fresh mango</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add in 2 cups of ice</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Blend thoroughly until smooth</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pour back into your glass and garnish with a pineapple and a cherry!</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Add a straw &amp; enjoy!</span></li>
+</ol>
+<p><span style="font-weight: 400;"> </span></p>]]>
+    </content>
+  </entry>
+</feed>
