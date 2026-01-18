@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/collections/all.atom"/>
+  <title>SEEQ </title>
+  <updated>2025-12-26T11:55:32-06:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/products/9033032630522</id>
+    <published>2025-12-26T11:55:32-06:00</published>
+    <updated>2025-12-26T11:55:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-arctic-cherry"/>
+    <title>Clear Protein Arctic Cherry</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-arctic-cherry-8473644.png?v=1766560206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arctic Cherry is like hitting the first run down a snowy peak. This nostalgic cherry flavor drinks lightly tart then pleasantly sweet for an Arctic-cool finish that keeps every sip feeling clean and refreshing</p>
+<p>With zero sugar, 0g lactose, and <strong>no artificial dyes</strong>, it’s a light, easy-drinking protein you’ll actually want to reach for every day. Fresh, invigorating, and unmistakably cherry, this is the flavor you’ll crave before or after every workout.<!-- notionvc: a9cc126d-9592-435e-996c-7e0f410fc2bf --></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9033032630522</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-AC-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9023656558842</id>
+    <published>2025-12-09T10:40:55-06:00</published>
+    <updated>2025-12-09T10:40:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/free-shipping"/>
+    <title>Free Shipping</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/free-shipping-1566968.png?v=1765315867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Free Shipping Product</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9023656558842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9018408042746</id>
+    <published>2025-12-04T17:51:20-06:00</published>
+    <updated>2025-12-04T17:51:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/ultimate-starter-kit"/>
+    <title>Ultimate Starter Kit</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/ultimate-starter-kit-6546287.png?v=1764984428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9018408042746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9018399195386</id>
+    <published>2025-12-02T19:02:05-06:00</published>
+    <updated>2025-12-02T19:02:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-shaker"/>
+    <title>SEEQ SHAKER</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9018399195386</id>
+      <title>BLUE</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9018399195386</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9018399195386</id>
+      <title>PINK</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9006565097722</id>
+    <published>2025-11-18T11:30:50-06:00</published>
+    <updated>2025-11-18T11:30:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/protein-variety-on-the-go-18ct"/>
+    <title>PROTEIN: Variety on-the go 18ct</title>
+    <s:type>Tiktok</s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong>Tiktok<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9006565097722</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18-TT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/9006561493242</id>
+    <published>2025-11-18T11:29:01-06:00</published>
+    <updated>2025-11-18T11:29:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-variety-pack-tiktok-18-on-the-go-variety-packs"/>
+    <title>Clear Protein Variety Pack TikTok 18 On-The-Go Variety Packs</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-variety-pack-tiktok-18-on-the-go-variety-packs-9955387.webp?v=1763575775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" data-start="275" data-end="293">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p class="" data-start="92" data-end="402">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p class="" data-start="519" data-end="739">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p class="" data-start="741" data-end="825">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/9006561493242</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8970493919482</id>
+    <published>2025-10-25T17:55:42-05:00</published>
+    <updated>2025-10-25T17:55:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/buy-on-costco-com"/>
+    <title>BUY ON COSTCO.COM</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/buy-on-costcocom-8177008.png?v=1761513312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you're reading this you should buy our 35 Serving Strawberry Lemonade on Costco.com</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8970493919482</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8224880951546</id>
+    <published>2025-10-23T14:55:33-05:00</published>
+    <updated>2025-10-23T14:55:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/sour-green-apple-clear-protein"/>
+    <title>Clear Protein Sour Green Apple</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-sour-green-apple-6944308.png?v=1761264717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="klaviyo-form-R8kGJg" style="text-align: left;">Irresistibly enticing, perhaps even a touch magical. With each sip, you'll find a slight sourness that perfectly balances the sweetness, mirroring the taste of a crisp sour green apple. <!-- notionvc: e57d4cb0-583e-4cc6-b0e8-82fab1cce7a8 -->
+</div>
+<div class="klaviyo-form-R8kGJg"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8224880951546</id>
+      <title>Sour Green Apple</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SEEQ-PROTEIN-BOTTLE-SGA-22</s:sku>
+      <s:grams>953</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8957522903290</id>
+    <published>2025-10-16T13:49:37-05:00</published>
+    <updated>2025-10-16T13:49:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/the-stay-juicy-cap"/>
+    <title>The Stay Juicy Cap</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/the-stay-juicy-cap-6097453.jpg?v=1761327743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fuel your day. Bring the juice.</strong><br><br>The Stay Juicy Cap is made for movers, thinkers, and go-getters—those who bring energy wherever they go. Built from soft corduroy with an easy-adjust fit, it’s made for everything from morning workouts to weekend hangs.<br><br>A reminder to stay real, stay moving, and keep your energy high—no matter what you’re chasing.<br><br><strong>Stay grounded. Stay moving. Stay juicy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8957522903290</id>
+      <title>Orange</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>SEEQ-MERCH-HAT-STAYJUICY-ORANGE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8957522903290</id>
+      <title>Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>SEEQ-MERCH-HAT-STAYJUICY-BLUE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8950586114298</id>
+    <published>2025-10-15T15:28:29-05:00</published>
+    <updated>2025-10-15T15:28:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-variety-pack-9ct"/>
+    <title>Clear Protein 9ct. Trial Pack</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-9ct-trial-pack-5029136.png?v=1760601458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8950586114298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-9</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8583599718650</id>
+    <published>2025-08-22T11:40:56-05:00</published>
+    <updated>2025-08-22T11:40:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/juicy-peach-limited-edition"/>
+    <title>CLEAR PROTEIN JUICY PEACH</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-juicy-peach-7021113.png?v=1755937972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;" data-mce-style="text-align: left;">Meet your peachy daydream in a bottle, Juicy Peach. Packed with the essence of sun-ripened peaches, it’s naturally sweet and bursting with refreshing juiciness. One sip of this fresh-from-the-orchard goodness, and you’ll savor every drop like it’s your last.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>peach</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8583599718650</id>
+      <title>Juicy Peach</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SEEQ-PROTEIN-BOTTLE-JP-22</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8893436166394</id>
+    <published>2025-08-18T14:20:17-05:00</published>
+    <updated>2025-08-18T14:20:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-watermelon-wave-on-the-go"/>
+    <title>Clear Protein Watermelon Wave 12CT. On-The-Go</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-watermelon-wave-on-the-go-5305594.png?v=1755606239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Brand new 12-count on-the-go sticks - Juicy, refreshing, and as sweet as a watermelon catching a gnarly wave, shades on, and totally carefree. Try not to lose your rind over this refreshing and juicy clear protein drink! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>MCF</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8893436166394</id>
+      <title>Watermelon Wave 12ct. On-the-Go</title>
+      <s:price currency="USD">38.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-WW-12</s:sku>
+      <s:grams>5375</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8816261103866</id>
+    <published>2025-08-01T15:08:25-05:00</published>
+    <updated>2025-08-01T15:08:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-sampler"/>
+    <title>SEEQ SAMPLER</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-sampler-135990.png?v=1763561131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="137" data-end="220"><strong data-start="137" data-end="184">New Here? Start with the SEEQ Sampler Pack.</strong><br data-start="184" data-end="187"><em data-start="187" data-end="220">Your gateway to The Juicy Side.</em></p>
+<p data-start="222" data-end="272">Still not sure about switching? This is your sign.</p>
+<p data-start="274" data-end="535">Ditch the heavy, milky shakes and try protein that actually <em data-start="334" data-end="345">refreshes</em>. The SEEQ Sampler Pack features one can of each of our bold, fruity flavors—<strong data-start="422" data-end="484">Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave</strong>—so you can find your favorite before going all-in.</p>
+<p data-start="537" data-end="712">Whether you're hitting the gym, running errands, or powering through your 3 p.m. slump, SEEQ fits into your life without slowing you down. It’s protein for people on the move.</p>
+<p data-start="714" data-end="768">✨ 22g Protein<br data-start="727" data-end="730">🚫 Zero Sugar<br data-start="743" data-end="746">🔥 Only 100 Calories</p>
+<p data-start="770" data-end="815">Ready to make the switch to <em data-start="798" data-end="814">The Juicy Side</em>?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude_rebuy</s:tag>
+    <s:tag>noindex</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8816261103866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-3</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8872889188602</id>
+    <published>2025-07-29T14:35:17-05:00</published>
+    <updated>2025-07-29T14:35:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/replo-bundle-glp-1"/>
+    <title>The Ultimate Bundle: Protein, Shaker &amp; Frother. All in One!!</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/the-ultimate-bundle-protein-shaker-frother-all-in-one-8823672.png?v=1753866241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872889188602</id>
+      <title>BLUE</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872889188602</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872889188602</id>
+      <title>PINK</title>
+      <s:price currency="USD">78.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8872903180538</id>
+    <published>2025-07-29T14:35:05-05:00</published>
+    <updated>2025-07-29T14:35:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/replo-bundle-1"/>
+    <title>Grab the Bundle: Your Favorite Protein + Shaker, All in One!</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/grab-the-bundle-your-favorite-protein-shaker-all-in-one-3904005.png?v=1753866239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872903180538</id>
+      <title>BLUE</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872903180538</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8872903180538</id>
+      <title>PINK</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8836148625658</id>
+    <published>2025-07-01T15:57:56-05:00</published>
+    <updated>2025-07-01T15:57:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/affiliate-bundle"/>
+    <title>Affiliate Welcome Kit</title>
+    <s:type>Bundle</s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/affiliate-welcome-kit-4480798.png?v=1763561135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong>Bundle<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Welcome to the juice crew 🤙 We're pumped to have you repping the juiciest crew around. Here's everything waiting for you. </p>
+<p>Affiliate welcome kit includes: an 18 variety pack, frother, and Pink SEEQ Hat for just $50</p>
+<p>Hurry this offer ends in 5 days!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8836148625658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">82.00</s:price>
+      <s:sku>AFFILAITE</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8831727763706</id>
+    <published>2025-06-12T15:56:31-05:00</published>
+    <updated>2025-06-12T15:56:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-accessories-plastic-shaker"/>
+    <title>SEEQ SHAKER</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-shaker-431899.jpg?v=1763561134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> New <span>SEEQ shaker: sleek, lightweight, and made for your life in motion </span></p>
+<ul>
+<li data-stringify-border="0" data-stringify-indent="0">Cupholder Friendly: 24 OZ</li>
+<li data-stringify-border="0" data-stringify-indent="0">Shaker Ball Included</li>
+<li data-stringify-border="0" data-stringify-indent="0">Leakproof: Twist-on lid includes handle loop for easy carrying. Spout pops open for easy drinking access. Compatible with Simple Modern Classic Tumbler vessels</li>
+<li data-stringify-border="0" data-stringify-indent="0">BPA Free &amp; Phthalate Free: Made of Tritan Plastic<br>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8831727763706</id>
+      <title>BLUE</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-SHAKER-BLUE-PLASTIC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8831727763706</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-SHAKER-YELLOW-PLASTIC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8831727763706</id>
+      <title>PINK</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-SHAKER-PINK-PLASTIC</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8818109448442</id>
+    <published>2025-06-05T14:32:03-05:00</published>
+    <updated>2025-06-05T14:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/strawberry-lemonade-free-sample-pack"/>
+    <title>Strawberry Lemonade Free Sample Pack</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/strawberry-lemonade-free-sample-pack-672650.png?v=1763561134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude_rebuy</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8818109448442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SEEQ-007-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8818108498170</id>
+    <published>2025-06-05T14:32:03-05:00</published>
+    <updated>2025-06-05T14:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/watermelon-wave-free-sample-pack"/>
+    <title>Watermelon Wave Free Sample Pack</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/watermelon-wave-free-sample-pack-527981.png?v=1763561133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude_rebuy</s:tag>
+    <s:tag>test</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8818108498170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SEEQ-006-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8818107973882</id>
+    <published>2025-06-05T14:32:02-05:00</published>
+    <updated>2025-06-05T14:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/blue-razz-freeze-free-sample"/>
+    <title>Blue Razz Freeze Free Sample Pack</title>
+    <s:type></s:type>
+    <s:vendor>SEEQ </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/blue-razz-freeze-free-sample-pack-439829.png?v=1763561133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ <br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>exclude_rebuy</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8818107973882</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku>SEEQ-003-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8245910208762</id>
+    <published>2025-05-19T21:51:46-05:00</published>
+    <updated>2025-05-19T21:51:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/clear-protein-variety-pack"/>
+    <title>Clear Protein Variety Pack</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-variety-pack-560076.png?v=1764794873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="275" data-end="293" class="">Ready to make the switch to The Juicy Side? This is your sign.</p>
+<p data-start="92" data-end="402" class="">Say goodbye to heavy, milky shakes and hello to SEEQ Clear Protein – the refreshing way to fuel your day. Our NEW variety pack features 3 bold, fruity flavors of our #1 best-selling clear whey protein: Blue Razz Freeze, Strawberry Lemonade, and Watermelon Wave. Finding your favorite has never been easier.</p>
+<p data-start="519" data-end="739" class="">Designed for life in motion, this protein fits seamlessly into your routine—whether you're hitting the gym, running errands, or just need a midday pick-me-up. It's on-the-go fuel for active bodies and busy lives.</p>
+<p data-start="741" data-end="825" class="">As always, Zero Sugar, 22 grams of protein, ONLY 100 Calories!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>protein</s:tag>
+    <s:tag>sample-pack</s:tag>
+    <s:tag>Variety Pack</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8245910208762</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>SEEQ-PROTEIN-OTG-VARIETYBRSLWW-18</s:sku>
+      <s:grams>534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607649530106</id>
+    <published>2024-10-16T10:30:03-05:00</published>
+    <updated>2024-10-16T10:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-hat"/>
+    <title>SEEQ VIBE TRUCKER HAT</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-vibe-trucker-hat-841288.jpg?v=1760560014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SEEQ Vibe Truck Hat brings a pop of color and laid-back style to any outfit, with a vibrant design that stands out and a classic trucker fit for all-day comfort. Whether you’re hitting the beach, the trails, or just cruising around town, this hat keeps the good vibes rolling while keeping you cool with its breathable mesh back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-BLUE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Pink</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-PINK-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Orange</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-ORANGE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607646777594</id>
+    <published>2024-10-16T10:29:00-05:00</published>
+    <updated>2024-10-16T10:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-hoodie"/>
+    <title>Seeq Stealth Hoodie</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-stealth-hoodie-393362.jpg?v=1762454922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The SEEQ Stealth Hoodie combines lightweight comfort and sleek design, offering premium performance fabric for performance and style. Perfect for workouts or everyday wear, this hoodie will make heads turn.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / S</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / M</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / L</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607648841978</id>
+    <published>2024-10-16T10:28:16-05:00</published>
+    <updated>2024-10-16T10:28:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-tee"/>
+    <title>Seeq Stay Juicy Tee</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-stay-juicy-tee-886105.jpg?v=1762454922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The SEEQ Stay Juicy Tee is all about fresh vibes and playful energy, made from ultra-soft, breathable fabric that keeps you cool wherever you go. With its bold “Stay Juicy” graphic and a fit that’s as smooth as your style, this tee adds a splash of fun to your day, whether you’re breaking a sweat or just hanging out.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8005279187194</id>
+    <published>2023-09-05T10:33:26-05:00</published>
+    <updated>2023-09-05T10:33:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/fruit-punch-clear-protein"/>
+    <title>Clear Protein Fruit Punch</title>
+    <s:type>Protein Powder</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/clear-protein-fruit-punch-7065306.png?v=1755606239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Protein Powder<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="klaviyo-form-R8kGJg" style="text-align: left;" data-mce-style="text-align: center;">Juicy clear protein flavor that's a sweet and fruity trio of pineapple, orange, and cherry that’s so bold, if Coachella had a taste, this would be the headliner.</div>
+<div class="klaviyo-form-R8kGJg" data-mce-style="text-align: center;"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>protein</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8005279187194</id>
+      <title>Fruit Punch</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku>SEEQ-PROTEIN-BOTTLE-FP-22</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+  </entry>
+</feed>

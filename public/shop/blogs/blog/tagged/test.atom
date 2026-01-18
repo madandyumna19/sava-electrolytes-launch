@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/blogs/blog.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/blogs/blog/tagged/test.atom"/>
+  <title>SEEQ  - SEEQ Clear Protein</title>
+  <updated>2025-07-31T14:37:49-05:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/blogs/blog/watermelon-marg</id>
+    <published>2025-07-31T14:37:49-05:00</published>
+    <updated>2025-08-01T02:05:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/blogs/blog/watermelon-marg"/>
+    <title>WATERMELON MARGARITA</title>
+    <author>
+      <name>Jake Hoffman</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p><span data-mce-fragment="1">This margarita is perfect addition to you Cinco De Mayo celebration if you're looking for something refreshing, fun, and Non-Alcoholic. Follow the instructions below to make yours today!</span></p>
+<p><span data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/Clear_Protein_Isolate_480x480.png?v=1714756570"></span></p>
+<p><span data-mce-fragment="1">Cook Time: 5 Minutes</span></p>
+<p> </p>
+<p><span>INGREDIENTS:</span></p>
+<ul>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">16oz water</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">Lime juice</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">Salt for the glass rim</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">1 scoop of SEEQ Watermelon</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">2-5 Mint leaves (optional)</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class="">Ice</span></li>
+<li class="comment_message--commentUnorderedListItem--16BZF"><span class=""><meta charset="utf-8">
+<span>Optional: 2oz Tequila Blanco</span></span></li>
+</ul>
+<p><span>INSTRUCTIONS:</span></p>
+<ol>
+<li><span>Start by combining lime juice, watermelon juice, 2 mint leaves, water, SEEQ protein in a blender or shaker.</span></li>
+<li><span>Shake the blender bottle gently to mix the ingredients together or use a blender to make a frozen marg! </span></li>
+<li>After shaking or blending, <span data-mce-fragment="1">run one of the lime wedge around the rim of your choice of glass then dip into salt</span>
+</li>
+<li><span>Add ice to your glass (if you're making a frozen marg skip this step)</span></li>
+<li><span>Pour the marg mixture into a glass and ake your drink fancy by adding a wedge of lime. Throw in a few mint leaves on top of the drink.</span></li>
+<li><span>Enjoy your delicious Watermelon Marg 🥂 </span></li>
+</ol>]]>
+    </content>
+  </entry>
+</feed>

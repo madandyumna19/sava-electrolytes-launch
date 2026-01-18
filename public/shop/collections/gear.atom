@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://seeqsupply.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://seeqsupply.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://seeqsupply.com/collections/gear.atom"/>
+  <title>SEEQ </title>
+  <updated>2025-10-16T13:49:37-05:00</updated>
+  <author>
+    <name>SEEQ </name>
+  </author>
+  <entry>
+    <id>https://seeqsupply.com/products/8957522903290</id>
+    <published>2025-10-16T13:49:37-05:00</published>
+    <updated>2025-10-16T13:49:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/the-stay-juicy-cap"/>
+    <title>The Stay Juicy Cap</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/the-stay-juicy-cap-6097453.jpg?v=1761327743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Fuel your day. Bring the juice.</strong><br><br>The Stay Juicy Cap is made for movers, thinkers, and go-getters—those who bring energy wherever they go. Built from soft corduroy with an easy-adjust fit, it’s made for everything from morning workouts to weekend hangs.<br><br>A reminder to stay real, stay moving, and keep your energy high—no matter what you’re chasing.<br><br><strong>Stay grounded. Stay moving. Stay juicy.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8957522903290</id>
+      <title>Orange</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>SEEQ-MERCH-HAT-STAYJUICY-ORANGE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8957522903290</id>
+      <title>Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>SEEQ-MERCH-HAT-STAYJUICY-BLUE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607649530106</id>
+    <published>2024-10-16T10:30:03-05:00</published>
+    <updated>2024-10-16T10:30:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-hat"/>
+    <title>SEEQ VIBE TRUCKER HAT</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-vibe-trucker-hat-841288.jpg?v=1760560014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SEEQ Vibe Truck Hat brings a pop of color and laid-back style to any outfit, with a vibrant design that stands out and a classic trucker fit for all-day comfort. Whether you’re hitting the beach, the trails, or just cruising around town, this hat keeps the good vibes rolling while keeping you cool with its breathable mesh back.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-BLUE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Pink</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-PINK-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607649530106</id>
+      <title>Orange</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>SEEQ-MERCH-HAT-ORANGE-UNI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607646777594</id>
+    <published>2024-10-16T10:29:00-05:00</published>
+    <updated>2024-10-16T10:29:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-hoodie"/>
+    <title>Seeq Stealth Hoodie</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-stealth-hoodie-393362.jpg?v=1762454922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The SEEQ Stealth Hoodie combines lightweight comfort and sleek design, offering premium performance fabric for performance and style. Perfect for workouts or everyday wear, this hoodie will make heads turn.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / S</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / M</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / L</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607646777594</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>SEEQ-MERCH-SWEATSHIRT-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/8607648841978</id>
+    <published>2024-10-16T10:28:16-05:00</published>
+    <updated>2024-10-16T10:28:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/seeq-tee"/>
+    <title>Seeq Stay Juicy Tee</title>
+    <s:type>Merch</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/files/seeq-stay-juicy-tee-886105.jpg?v=1762454922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Merch<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The SEEQ Stay Juicy Tee is all about fresh vibes and playful energy, made from ultra-soft, breathable fabric that keeps you cool wherever you go. With its bold “Stay Juicy” graphic and a fit that’s as smooth as your style, this tee adds a splash of fun to your day, whether you’re breaking a sweat or just hanging out.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>apparel</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/8607648841978</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>SEEQ-MERCH-SHIRT-BLACK-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/7992219631866</id>
+    <published>2023-08-25T17:58:34-05:00</published>
+    <updated>2023-08-25T17:58:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/stainless-steel-shaker"/>
+    <title>Stainless Steel Shaker</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>SEEQ SUPPLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/products/stainless-steel-shaker-892905.jpg?v=1762451889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ SUPPLY<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">24 oz</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Lockable flip cap keeps your SEEQ secure</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Push-button for easy opening</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Double-wall insulated stainless steel</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">BPA and phthalate-free</span></li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/7992219631866</id>
+      <title>Black</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-SHAKER-BLACK-STEEL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://seeqsupply.com/products/7992219631866</id>
+      <title>White</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-SHAKER-WHITE-STEEL</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://seeqsupply.com/products/7975972765946</id>
+    <published>2023-05-18T11:19:49-05:00</published>
+    <updated>2023-05-18T11:19:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://seeqsupply.com/products/the-juice-master"/>
+    <title>Seeq Frother</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>SEEQ</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0557/2345/8749/products/seeq-frother-657502.jpg?v=1762451625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SEEQ<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Introducing The Juice Master 😏 the perfect tool to effortlessly mix your SEEQ protein. It's not just any milk frother, it's a custom, limited edition, battery-powered, protein-mixing machine that will make you feel like Martha Stewart in the kitchen.</p>
+<p>Just pour some water, add your protein powder, and let the Juice Master do the rest!</p>
+<ul></ul>
+<p>Our preferred way to mix at home 🤙</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all</s:tag>
+    <s:tag>gear</s:tag>
+    <s:variant>
+      <id>https://seeqsupply.com/products/7975972765946</id>
+      <title>Black</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>SEEQ-ACCESSORY-FROTHER-BLACK-PLASTIC</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>
